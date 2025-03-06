@@ -34,7 +34,7 @@ git clone https://github.com/yourusername/password-manager.git
 
 **Build the Project:**
 
-1. Open the solution (`PasswordManager.sln`) in Visual Studio.
+1. Open the solution (`mypass.sln`) in Visual Studio.
 2. Restore NuGet packages if prompted.
 3. Build the solution (Debug or Release mode).
 
