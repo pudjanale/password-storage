@@ -1,4 +1,4 @@
-# Password Manager
+# MyPass
 
 A simple and secure desktop application for storing and managing passwords, built with WPF and C#. The application allows users to add, edit, and organize their passwords, generate secure random passwords, and customize the appearance of entries with colors. Passwords are encrypted using AES-256 for maximum security.
 
